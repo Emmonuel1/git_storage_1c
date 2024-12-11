@@ -4,7 +4,10 @@
 		<Metadata name="CommonModule.ОбщийМодуль1" id="86157384-a1f4-4fb1-82c0-3c32470e7f45" configVersion="c0409327a4f69c49ba060de62b72987200000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="86157384-a1f4-4fb1-82c0-3c32470e7f45.0" configVersion="c2047c16d7d5924e9720af625a05071b00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="4821035213ea57498a6f83bf8b5d333700000000"/>
-		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="4fb6a596b0e19746a3cf87d2695d991000000000"/>
+		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="1542b3c87f91294da3ebb6e253d6fbeb00000000">
+			<Metadata name="Document.Тест.Attribute.ТестРеквизит2" id="d815eff0-f918-4ace-81f8-5e8292a9f1e3"/>
+			<Metadata name="Document.Тест.Attribute.ТестРеквизит1" id="e248a5bd-9e2c-4553-9a19-ca4699454a03"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="95629f9a-3de4-4d9a-bfba-2b3914f90f6f" configVersion="fddc1a5d17609d4092aa49384a527bac00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
