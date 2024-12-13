@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
+		<Metadata name="Catalog.ТестовыйСправочник" id="baf40dec-16a7-4a65-b00a-653e71bd8934" configVersion="010a9ee71c35cf41963e3f804c9147af00000000">
+			<Metadata name="Catalog.ТестовыйСправочник.Attribute.Реквизит1" id="fe6baf2e-a472-425d-a25d-79f32db2a83b"/>
+		</Metadata>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="86157384-a1f4-4fb1-82c0-3c32470e7f45" configVersion="088dfe06e4beca44ba9eaf05f1c8760200000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="86157384-a1f4-4fb1-82c0-3c32470e7f45.0" configVersion="0ebcdd433bc95e44a38c7f0a1b7b41d600000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2" id="03a91997-6183-484c-a671-8692e0863809" configVersion="95f288014efdd34fbf8f7a3b4e34db5500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="03a91997-6183-484c-a671-8692e0863809.0" configVersion="f4c24970ac126f469d3f543ba65ce55b00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="fcef081f03a7c842bd7120c1a12ec03d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="d38dd6cb20e26f46bbde0fd8e01b193800000000"/>
 		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="9bcabe58eadcec4a81ecb43c9f02c5bc00000000">
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит3" id="99611791-206d-4d4c-81f5-89051c4fc6db"/>
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит2" id="d815eff0-f918-4ace-81f8-5e8292a9f1e3"/>

@@ -247,6 +247,7 @@
 			<Language>Русский</Language>
 			<CommonModule>ОбщийМодуль1</CommonModule>
 			<CommonModule>ОбщийМодуль2</CommonModule>
+			<Catalog>ТестовыйСправочник</Catalog>
 			<Document>Тест</Document>
 		</ChildObjects>
 	</Configuration>
