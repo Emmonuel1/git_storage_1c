@@ -1,0 +1,2 @@
+﻿New: Catalog.ТестовыйСправочник.ObjectModule
+Modified: Catalog.ТестовыйСправочник
