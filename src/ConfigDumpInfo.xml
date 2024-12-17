@@ -10,7 +10,8 @@
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="86157384-a1f4-4fb1-82c0-3c32470e7f45.0" configVersion="0ebcdd433bc95e44a38c7f0a1b7b41d600000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2" id="03a91997-6183-484c-a671-8692e0863809" configVersion="95f288014efdd34fbf8f7a3b4e34db5500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="03a91997-6183-484c-a671-8692e0863809.0" configVersion="f4c24970ac126f469d3f543ba65ce55b00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="d38dd6cb20e26f46bbde0fd8e01b193800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="d6d8da94e0d16f4ba2a3fc6172dd9e7900000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="f39e5e87-3e1e-4a27-bb19-b0a6595ac32f.6" configVersion="50cbd9f8b7701145a38df3da6bdefe3a00000000"/>
 		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="faf62654f49d824fb49212af78e87e7d00000000">
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит3" id="99611791-206d-4d4c-81f5-89051c4fc6db"/>
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит2" id="d815eff0-f918-4ace-81f8-5e8292a9f1e3"/>
