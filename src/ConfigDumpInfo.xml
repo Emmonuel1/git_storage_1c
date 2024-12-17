@@ -11,12 +11,12 @@
 		<Metadata name="CommonModule.ОбщийМодуль2" id="03a91997-6183-484c-a671-8692e0863809" configVersion="95f288014efdd34fbf8f7a3b4e34db5500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="03a91997-6183-484c-a671-8692e0863809.0" configVersion="f4c24970ac126f469d3f543ba65ce55b00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="d38dd6cb20e26f46bbde0fd8e01b193800000000"/>
-		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="a40c9dabc69659448ff41c025ffc438800000000">
+		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="faf62654f49d824fb49212af78e87e7d00000000">
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит3" id="99611791-206d-4d4c-81f5-89051c4fc6db"/>
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит2" id="d815eff0-f918-4ace-81f8-5e8292a9f1e3"/>
 			<Metadata name="Document.Тест.Attribute.ТестРеквизит1" id="e248a5bd-9e2c-4553-9a19-ca4699454a03"/>
 		</Metadata>
-		<Metadata name="Document.Тест.ManagerModule" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25.2" configVersion="891d7be7237f0c4e9e4a26194bf3ad1800000000"/>
+		<Metadata name="Document.Тест.ManagerModule" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25.2" configVersion="791e4ec8684e2f40813d256128d19a3e00000000"/>
 		<Metadata name="Document.Тест.ObjectModule" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25.0" configVersion="5b8971e160899942b3ac087a1bf4d23200000000"/>
 		<Metadata name="Language.Русский" id="95629f9a-3de4-4d9a-bfba-2b3914f90f6f" configVersion="fddc1a5d17609d4092aa49384a527bac00000000"/>
 	</ConfigVersions>
