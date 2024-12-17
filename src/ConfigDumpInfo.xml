@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.ТестовыйСправочник" id="baf40dec-16a7-4a65-b00a-653e71bd8934" configVersion="372b71479810b742b07bfa5c9f21025e00000000">
+			<Metadata name="Catalog.ТестовыйСправочник.Attribute.Реквизит1" id="fe6baf2e-a472-425d-a25d-79f32db2a83b"/>
+		</Metadata>
+		<Metadata name="Catalog.ТестовыйСправочник.ManagerModule" id="baf40dec-16a7-4a65-b00a-653e71bd8934.3" configVersion="fa58430606ee1a4a91a0fa3296cadbb800000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="86157384-a1f4-4fb1-82c0-3c32470e7f45" configVersion="088dfe06e4beca44ba9eaf05f1c8760200000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="86157384-a1f4-4fb1-82c0-3c32470e7f45.0" configVersion="0ebcdd433bc95e44a38c7f0a1b7b41d600000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="03a91997-6183-484c-a671-8692e0863809" configVersion="95f288014efdd34fbf8f7a3b4e34db5500000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="03a91997-6183-484c-a671-8692e0863809.0" configVersion="f4c24970ac126f469d3f543ba65ce55b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="955e483e-090d-4b40-98e3-636522e6cb0b" configVersion="d38dd6cb20e26f46bbde0fd8e01b193800000000"/>
+		<Metadata name="Document.Тест" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25" configVersion="9bcabe58eadcec4a81ecb43c9f02c5bc00000000">
+			<Metadata name="Document.Тест.Attribute.ТестРеквизит3" id="99611791-206d-4d4c-81f5-89051c4fc6db"/>
+			<Metadata name="Document.Тест.Attribute.ТестРеквизит2" id="d815eff0-f918-4ace-81f8-5e8292a9f1e3"/>
+			<Metadata name="Document.Тест.Attribute.ТестРеквизит1" id="e248a5bd-9e2c-4553-9a19-ca4699454a03"/>
+		</Metadata>
+		<Metadata name="Document.Тест.ManagerModule" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25.2" configVersion="891d7be7237f0c4e9e4a26194bf3ad1800000000"/>
+		<Metadata name="Document.Тест.ObjectModule" id="6d4882d7-51fc-4af7-b93e-fbcfa9fc2d25.0" configVersion="fde0bcefa6a40c4d9b80634951f83f7400000000"/>
+		<Metadata name="Language.Русский" id="95629f9a-3de4-4d9a-bfba-2b3914f90f6f" configVersion="fddc1a5d17609d4092aa49384a527bac00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
