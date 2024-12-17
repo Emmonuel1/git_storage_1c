@@ -1,2 +1,2 @@
-﻿New: Catalog.ТестовыйСправочник.ObjectModule
-Modified: Catalog.ТестовыйСправочник
+﻿Modified: Document.Тест
+Modified: Document.Тест.ObjectModule
